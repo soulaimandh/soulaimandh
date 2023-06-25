@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align='center' width='70%' >
+<div align='center'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulaimandh&hide=javascript,css,scss,html,CMake,Cpp&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulaimandh&hide=CMake&theme=tokyonight)
 
 </div>
