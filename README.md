@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Soulaimane DOUL HOUSN</h1>
+
+<img src="./github_banner.jpg" alt="github banner" style="width: 100vw;"/>
 <div id="badges" align='center'>
   <a href="https://soulaimane.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=react&logoColor=blue" alt="Portfolio Badge"/>
@@ -53,8 +55,8 @@ Here are some ideas to get you started:
 
 </div>
 
-
-
+<br/>
+<br/>
 <div align='center'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulaimandh&hide=CMake&theme=tokyonight)
