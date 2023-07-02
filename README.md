@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <img src="./github_banner.jpg" alt="github banner" style="width: 100vw;"/>
 <div id="badges" align='center'>
-  <a href="https://soulaimane.netlify.app/">
+  <a href="https://soulaimane.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=react&logoColor=blue" alt="Portfolio Badge"/>
   </a>
-    <a href="https://www.linkedin.com/in/soulaimane-doulhousn/">
+    <a href="https://www.linkedin.com/in/soulaimane-doulhousn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/soulaiman_dh/">
+  <a href="https://www.instagram.com/soulaiman_dh/" target="_blank">
 	 <img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=Instagram&logoColor=purpule" alt="Instagram Badge"/>     
   </a>
 </div>
